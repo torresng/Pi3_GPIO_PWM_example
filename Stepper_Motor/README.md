@@ -1,8 +1,8 @@
 ## Raspberry Pi 3 - Stepper Motor Control with ULN2003A
 
-![alt text](image/1.jpg)
+![alt text](images/1.jpg)
 
-![alt text](image/2.jpg)
+![alt text](images/2.jpg)
 
 運行如下：
 
