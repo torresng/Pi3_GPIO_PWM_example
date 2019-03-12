@@ -2,7 +2,7 @@
 
 Pi3 GPIO腳位見下圖：
 
-![alt text](images/1.jpg)
+![alt text](images/1.png)
 
 電路圖如下圖：
 
