@@ -2,15 +2,15 @@
 
 Pi3 GPIO腳位見下圖：
 
-![logo](images/1.jpg)
+![alt text](images/1.jpg)
 
 Tower Pro SG90見下圖：
 
-![logo](images/2.jpg)
+![alt text](images/2.jpg)
 
 需要接的三根線如下圖（在這個例子中，我把PWM接到PI3的GPIO 17腳位中）：
 
-![logo](images/3.jpg)
+![alt text](images/3.jpg)
 
 Run:
 
