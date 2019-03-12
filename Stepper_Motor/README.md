@@ -1,6 +1,10 @@
 ## Raspberry Pi 3 - Stepper Motor Control with ULN2003A
 
+Pi3 GPIO腳位見下圖：
+
 ![alt text](images/1.jpg)
+
+電路圖如下圖：
 
 ![alt text](images/2.jpg)
 
